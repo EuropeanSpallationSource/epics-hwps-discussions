@@ -72,9 +72,9 @@ Beam Diagnostics group of the Brazilian Synchrotron Light Laboratory - LNLS http
 * Highland V375 arbitrary waveform generator
 * IP-carrier with boards for digital io
 
-## Memory mapped register devices (FPGA)
-* We have one talk tomorrow *RegDev: A generic and flexible device support for memory mapped register devices*  https://github.com/paulscherrerinstitute/regdev
-
+## Memory mapped register devices (FPGA) / HPS Common Platform Software
+* PSI, *RegDev: A generic and flexible device support for memory mapped register devices*  https://github.com/paulscherrerinstitute/regdev
+* SLAC, A Common Platform Software (CPSW) framework, LCLS-2 status talk. 
 
 ## Related Talks ? tomorrow 
 

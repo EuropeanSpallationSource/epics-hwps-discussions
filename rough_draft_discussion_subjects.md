@@ -2,7 +2,7 @@
 
 
 * When 15:45 - 17:45
-* Room: Scheele, ESS
+* Room: Medicom Village Auditorium, ESS
 * Subject : Discussion about support of different hardware platforms (RPi, MTCA, design sharing, open source solutions,FPGA...) in EPICS
 
 My first question to myself is *What is hardware?*, then I searched them in EPICS site, and found the page which has the name of *Hardware Support: by Bus, by Manufacturer, by Contact Name, or By Link* at http://www.aps.anl.gov/epics/modules/bus.php
@@ -62,6 +62,15 @@ Beam Diagnostics group of the Brazilian Synchrotron Light Laboratory - LNLS http
 ** Beam Positoning Monitor - RF Front-End http://www.ohwr.org/projects/bpm-rffe/wiki
 
 * Anything else within EPICS community?
+
+
+## VME
+* MVME 3xxx / 5100 / 6100 (VxWorks, RTEMS)
+* IOxOS IF 1210/1211 (EDLK)
+* Struck SIS3316 digitizer
+* OMS MAXv motor controller
+* Highland V375 arbitrary waveform generator
+* IP-carrier with boards for digital io
 
 ## Memory mapped register devices (FPGA)
 * We have one talk tomorrow *RegDev: A generic and flexible device support for memory mapped register devices*  https://github.com/paulscherrerinstitute/regdev
